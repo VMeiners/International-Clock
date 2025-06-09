@@ -25,6 +25,7 @@ Both clocks display side-by-side (or stacked if side-by-side isn’t feasible) w
 - After each update, both clocks will display the current time in their respective formats.
 
 **Menu Screencaps:**
+
 ![Clock1](https://github.com/user-attachments/assets/f42cf43e-774c-4c66-bde2-b886d450c1f7)
 
 ![Clock2](https://github.com/user-attachments/assets/7670b180-6971-410f-9bb8-53ef04a902c8)
